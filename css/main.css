@@ -1,0 +1,66 @@
+body{
+    margin: 0;
+    font-family: 'Lato';
+}
+#topbanner{
+    /*background-color: rgb(153, 23, 23) !important;*/
+    background-image: linear-gradient(#051322, #15437c);
+    background-repeat: no-repeat;
+    height: 545px;
+    width: auto;
+    justify-content: center;
+}
+#logosize{
+    width: 113px;
+    height: 36px;
+}
+#data{
+    display: flex;
+    justify-content: center;
+    margin-top: 50px;
+    position: relative;
+}
+.catogerycontainer{
+    align-items: center !important;
+    background-color: white;
+    border-radius: 8px;
+    box-shadow: 0 2px 20px 0 rgba(0,0,0,.1);
+    display: flex;
+    height: 100px;
+    width: 870px;
+    justify-content: space-evenly;
+    padding-top: 20px;
+    z-index: 2;
+}
+.catogerycontainer  span{
+    font-size: 15px;
+    text-align: center;
+    display: flex;
+    flex-direction: column !important;
+    width: 70%; /* Four links of equal widths */
+}
+.catogerycontainer  span p{
+    margin-top: 10px;
+}
+#ticletsearch{
+    height: 250px;
+    background: white;
+    position: absolute;
+    margin-top: 50px;
+    border-radius: 10px;
+    z-index: 1;
+}
+.smalltext-in-search{
+    font-weight: 400;
+    margin-top: 56px;
+    text-align: center;
+}
+.size{
+    box-shadow: 0 0px 10px 0 rgba(19, 19, 19, 0.1);
+    margin-left: 8px;
+    margin-top: 10px;
+    padding: 23px ;
+}
+.selectoneway span{
+    margin-left: 7px;
+}
