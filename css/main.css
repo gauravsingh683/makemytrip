@@ -74,7 +74,7 @@ body{
     border: solid 0.3px rgb(230, 230, 230);
     border-left: none !important;
 }
-.form-control select{
+.form-group select{
     appearance: none;
 .selectoneway{
     font-weight: 400;
