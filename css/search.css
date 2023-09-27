@@ -1,0 +1,71 @@
+.typesize{
+    width: 105px;
+    height: 40px;
+    margin-left: 20px;
+    float: left;
+    justify-content: center;
+}
+.nomleft{
+    margin-left: 2px !important;
+    background: #F2F2F2;
+    padding-left: 8px;
+    padding-right: 8px;
+    font-weight: 300;
+    font-size: 12px;
+}
+.percentageside{
+    float: left;
+    margin-left: 10px;
+    color: white;
+    font-size: 12px;
+    font-weight: 500;
+    border-right: dotted 0.5px rgb(61, 61, 61);
+}
+.precentageboxsizeside{
+    float: right !important;
+    padding: 12px 12px;
+    width: 160px !important;
+    background: #F2F2F2;
+    border-radius: 5px;
+    color: #4A4A4A;
+    border: none !important;
+}
+.center{
+    margin-top: 12px;
+    text-align: right;
+    font-size: 12px;
+    font-weight: 600;
+}
+.mumbaigoa{
+    float: right !important;
+    padding: 12px 12px;
+    width: 140px !important;
+    background: #F2F2F2;
+    border-radius: 5px;
+    color: #4A4A4A;
+    border: none !important;
+    margin-right: 20px;
+}
+#side{
+    margin-left: 42%;
+    margin-top: -130px;
+    z-index: 3;
+}
+.button{
+    width: 216px;
+    margin-bottom: -32px;
+    padding: 8px;
+    border: none;
+    background-image: linear-gradient(to right, #52B0FE, #075BF3);
+    color: white;
+    font-size: 22px;
+    font-weight: 600;
+    border-radius: 25px;
+    z-index: 3 !important;
+    position: absolute;
+}
+.normaldiv{
+    margin-top: 60px;
+    margin-left: 615px;
+    color: white;
+}
